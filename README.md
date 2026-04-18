@@ -104,13 +104,3 @@ I am a Computer Science undergraduate at **VVIT, Guntur**, passionate about buil
 
 ---
 
-## 📬 Contact
-
-📧 Email: teja72025@gmail.com  
-📞 Phone: +91 8919537353  
-🔗 LinkedIn: Profile link above  
-💻 GitHub: github.com/teja-13  
-
----
-
-⭐ *“Building scalable systems with clean design and real-world impact.”*
