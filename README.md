@@ -31,8 +31,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja-13&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&bg_color=2C2415&text_color=F8EBC6" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-13&layout=compact&theme=dark&title_color=D4AF37&bg_color=2C2415&text_color=F8EBC6" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teja-13&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&bg_color=2C2415&text_color=D4AF37" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-13&layout=compact&theme=dark&title_color=D4AF37&bg_color=2C2415&text_color=D4AF37" height="180"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=teja-13&theme=dark&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=F8EBC6&sideLabels=D4AF37&dates=F8EBC6&background=2C2415"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teja-13&theme=dark&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=D4AF37&background=2C2415"/>
 </p>
 
 ---
