@@ -99,7 +99,7 @@ I am a Computer Science undergraduate at **VVIT, Guntur**, passionate about buil
 ## 🎯 Hobbies
 
 - Basketball  
-- Music  
+- Listening Music  
 - Photography  
 
 ---
