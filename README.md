@@ -6,8 +6,7 @@
 
 Portfolio 2026
 
-Teja Swaroop Battula
-====================
+# Teja Swaroop Battula
 
 B.Tech CSE Student | MERN Stack Developer
 
@@ -35,8 +34,7 @@ Current CGPA
 
 Notable Achievements
 
-About Me
---------
+## About Me
 
 Computer science undergraduate with strong execution in full-stack delivery and collaborative product building.
 
@@ -54,8 +52,7 @@ GitHub [Explore repositories](https://github.com/teja-13)
 
 Base Guntur, Andhra Pradesh, India
 
-Skills
-------
+## Skills
 
 Filter by category to quickly scan the stack I use in development projects.
 
@@ -89,8 +86,7 @@ Git, GitHub, Postman
 
 Leadership, Problem Solving, Communication, Time Management
 
-Projects
---------
+## Projects
 
 Detailed snapshots of product work across AI and workflow management domains.
 
@@ -118,8 +114,7 @@ Developed a role-based MERN platform for handling books, borrowers, and admin wo
 
 React Express.js MongoDB JWT Role-Based Access
 
-Education
----------
+## Education
 
 Academic progression and performance milestones.
 
@@ -141,8 +136,7 @@ Score: 90.16%
 
 2020 - 2021
 
-Certifications
---------------
+## Certifications
 
 Formal credentials that support my backend, cloud, and data workflow competencies.
 
@@ -154,8 +148,7 @@ Formal credentials that support my backend, cloud, and data workflow competencie
 
 [View Certificate](https://github.com/teja-13/certifications/blob/755df082656693cf5ed5b495abb35331c36d462e/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260306-31-phuif8.pdf)
 
-Achievements
-------------
+## Achievements
 
 Highlights from discipline, team performance, and extracurricular leadership.
 
@@ -167,15 +160,13 @@ Highlights from discipline, team performance, and extracurricular leadership.
 
 [View Proof](https://drive.google.com/file/d/1epJPYzmR4GoaQf53QACa0f72q1xIwnFN/view?usp=drivesdk)
 
-Hobbies
--------
+## Hobbies
 
 Interests that keep me creative, focused, and team-driven.
 
 Basketball Music Photography
 
-Contact
--------
+## Contact
 
 I am open to internships, project collaborations, and developer opportunities.
 
