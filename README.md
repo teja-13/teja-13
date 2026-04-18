@@ -20,10 +20,10 @@
 ## 👨‍💻 About Me
 
 ```txt
-🎓 B.Tech CSE Student @ VVIT, Guntur
-💻 MERN Stack Developer
-🧠 Focus: AI + Backend Systems + Scalable Web Apps
-⚡ Passion: Building real-world production-grade applications
+🎓 B.Tech CSE Student @ VVIT, Guntur  
+💻 MERN Stack Developer  
+🧠 Focus: AI + Backend Systems + Scalable Web Apps  
+⚡ Passion: Building real-world production-grade applications  
 ```
 
 ---
@@ -49,41 +49,58 @@
 
 ### ⚡ Languages
 
-![JS](https://img.shields.io/badge/JavaScript-3a1a14?style=for-the-badge\&logo=javascript\&logoColor=CFB882)
+![JavaScript](https://img.shields.io/badge/JavaScript-3a1a14?style=for-the-badge\&logo=javascript\&logoColor=CFB882)
 ![Python](https://img.shields.io/badge/Python-6A3428?style=for-the-badge\&logo=python\&logoColor=CFB882)
 ![Java](https://img.shields.io/badge/Java-9a634d?style=for-the-badge\&logo=java\&logoColor=CFB882)
+![C](https://img.shields.io/badge/C-3a1a14?style=for-the-badge)
+
+---
 
 ### ⚛️ Frontend
 
 ![React](https://img.shields.io/badge/React-3a1a14?style=for-the-badge\&logo=react\&logoColor=CFB882)
 ![Tailwind](https://img.shields.io/badge/Tailwind-6A3428?style=for-the-badge\&logo=tailwindcss\&logoColor=CFB882)
+![Vite](https://img.shields.io/badge/Vite-9a634d?style=for-the-badge)
 
-### 🧠 Backend
+---
+
+### ⚙️ Backend
 
 ![Node](https://img.shields.io/badge/Node.js-3a1a14?style=for-the-badge\&logo=node.js\&logoColor=CFB882)
 ![Express](https://img.shields.io/badge/Express-6A3428?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-9a634d?style=for-the-badge)
+
+---
 
 ### 🗄 Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-9a634d?style=for-the-badge\&logo=mongodb\&logoColor=CFB882)
+![MySQL](https://img.shields.io/badge/MySQL-3a1a14?style=for-the-badge)
+
+---
+
+### 🤖 AI / NLP
+
+TF-IDF • Cosine Similarity • Pandas • NumPy
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume–JD Matcher
+### 🤖 AI Resume–JD Matcher (MERN)
 
 ```txt
-✔ NLP-based semantic matching
-✔ TF-IDF + Cosine similarity
-✔ Secure MERN authentication
+✔ Resume parsing (PDF/DOCX)
+✔ TF-IDF + Cosine Similarity ranking
+✔ Skill gap detection
+✔ JWT authentication system
 ```
 
 🔗 https://github.com/teja-13/resume-jd-analyser
 
 ---
 
-### 📚 Smart Library System
+### 📚 Smart Library Management System
 
 ```txt
 ✔ Role-based authentication
@@ -95,18 +112,18 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🥈 2nd Place – Basketball Inter Collegiate Tournament (2024–25)
-* 🎖 NCC “B” Certificate Holder
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja-13&bg_color=3a1a14&color=CFB882&line=CFB882&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 Achievements
+
+* 🥈 2nd Place – Basketball Inter Collegiate Tournament (2024–25)
+* 🎖 NCC “B” Certificate Holder
 
 ---
 
@@ -116,14 +133,30 @@
 
 ---
 
+## 📬 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-3a1a14?style=for-the-badge&logo=leetcode&logoColor=CFB882">
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-6a3428?style=for-the-badge&logo=codechef&logoColor=CFB882">
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-9a634d?style=for-the-badge&logo=codeforces&logoColor=CFB882">
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-3a1a14?style=for-the-badge&logo=hackerrank&logoColor=CFB882">
+  </a>
+</p>
+
+---
+
 ## 📬 Contact
 
 <p align="center">
   <a href="mailto:teja72025@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CFB882?style=for-the-badge&logo=gmail&logoColor=3a1a14">
-  </a>
-  <a href="https://github.com/teja-13">
-    <img src="https://img.shields.io/badge/GitHub-6A3428?style=for-the-badge&logo=github&logoColor=CFB882">
   </a>
   <a href="https://www.linkedin.com/in/teja-swaroop-battula-b76696299">
     <img src="https://img.shields.io/badge/LinkedIn-9a634d?style=for-the-badge&logo=linkedin&logoColor=CFB882">
@@ -132,6 +165,6 @@
 
 ---
 
-<p align="center" style="color:#CFB882;">
-  ✨ Built with MERN + Passion + Consistency ✨
+<p align="center">
+  ✨ Built with MERN + Consistency + Passion ✨
 </p>
