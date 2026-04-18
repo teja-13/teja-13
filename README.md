@@ -1,21 +1,34 @@
+# 🟤✨ Teja Swaroop Battula
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=CFB882&center=true&vCenter=true&width=700&lines=Teja+Swaroop+Battula;MERN+Stack+Developer;AI+%2B+Full+Stack+Engineer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=CFB882&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;B.Tech+CSE+Student;AI+%26+Full+Stack+Builder;Scalable+Web+Apps+Enthusiast" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🎨 Tech Identity (Inspired by your palette)
 
-```txt id="aboutme"
-🎓 B.Tech CSE @ VVIT, Guntur  
-💻 MERN Stack Developer  
-🧠 Focus: AI + Backend Systems + Scalable Web Apps  
-🚀 Passion: Building real-world production applications  
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20Theme-6A3428?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Accent-CFB882?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-3a1a14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-9a634d?style=for-the-badge" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```txt
+🎓 B.Tech CSE Student @ VVIT, Guntur
+💻 MERN Stack Developer
+🧠 Focus: AI + Backend Systems + Scalable Web Apps
+⚡ Passion: Building real-world production-grade applications
 ```
 
 ---
 
-## 📊 GitHub Stats (Live Animated)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teja-13&show_icons=true&theme=dark&title_color=CFB882&icon_color=CFB882&bg_color=3a1a14&text_color=ffffff" height="180"/>
@@ -24,94 +37,76 @@
 
 ---
 
-## 🔥 Contribution Streak Animation
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=teja-13&theme=dark&ring=CFB882&fire=CFB882&currStreakLabel=CFB882&background=3a1a14"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teja-13&theme=dark&ring=CFB882&fire=CFB882&currStreakLabel=CFB882&sideNums=ffffff&sideLabels=CFB882&dates=ffffff&background=3a1a14"/>
 </p>
 
 ---
 
-## 🛠 Skills (Your Exact Stack)
+## 🛠 Tech Stack
 
-### 💻 Languages
+### ⚡ Languages
 
-JavaScript • Python • Java • C • SQL
+![JS](https://img.shields.io/badge/JavaScript-3a1a14?style=for-the-badge\&logo=javascript\&logoColor=CFB882)
+![Python](https://img.shields.io/badge/Python-6A3428?style=for-the-badge\&logo=python\&logoColor=CFB882)
+![Java](https://img.shields.io/badge/Java-9a634d?style=for-the-badge\&logo=java\&logoColor=CFB882)
 
 ### ⚛️ Frontend
 
-React.js • TypeScript • Vite • Tailwind CSS • React Router
+![React](https://img.shields.io/badge/React-3a1a14?style=for-the-badge\&logo=react\&logoColor=CFB882)
+![Tailwind](https://img.shields.io/badge/Tailwind-6A3428?style=for-the-badge\&logo=tailwindcss\&logoColor=CFB882)
 
-### ⚙️ Backend
+### 🧠 Backend
 
-Node.js • Express.js • REST APIs • JWT Authentication
+![Node](https://img.shields.io/badge/Node.js-3a1a14?style=for-the-badge\&logo=node.js\&logoColor=CFB882)
+![Express](https://img.shields.io/badge/Express-6A3428?style=for-the-badge)
 
-### 🗄 Databases
+### 🗄 Database
 
-MongoDB Atlas • Mongoose • MySQL
-
-### 🤖 AI / NLP
-
-TF-IDF • Cosine Similarity • Pandas • NumPy
-
-### 🧰 Tools
-
-Git • GitHub • Postman
+![MongoDB](https://img.shields.io/badge/MongoDB-9a634d?style=for-the-badge\&logo=mongodb\&logoColor=CFB882)
 
 ---
 
-## 🚀 Projects (Your Real Work)
+## 🚀 Featured Projects
 
-### 🤖 AI-Powered Resume–JD Matcher (MERN)
+### 🤖 AI Resume–JD Matcher
 
-```txt id="resumejd"
-✔ Resume parsing (PDF/DOCX)
-✔ TF-IDF + Cosine Similarity ranking
-✔ Skill gap detection
-✔ JWT-secured full stack system
+```txt
+✔ NLP-based semantic matching
+✔ TF-IDF + Cosine similarity
+✔ Secure MERN authentication
 ```
 
 🔗 https://github.com/teja-13/resume-jd-analyser
 
 ---
 
-### 📚 Smart Library Management System
+### 📚 Smart Library System
 
-```txt id="librarysys"
+```txt
 ✔ Role-based authentication
-✔ Book tracking + reservations
-✔ Fine calculation system
-✔ Full MERN workflow
+✔ Book tracking + fines system
+✔ Full-stack workflow design
 ```
 
 🔗 https://github.com/teja-13/e2e
 
 ---
 
-## 📈 Live Contribution Graph (Animated)
+## 🏆 Achievements
+
+* 🥈 2nd Place – Basketball Inter Collegiate Tournament (2024–25)
+* 🎖 NCC “B” Certificate Holder
+
+---
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja-13&bg_color=3a1a14&color=CFB882&line=CFB882&point=ffffff&area=true&hide_border=true"/>
 </p>
-
----
-
-## 🎯 Highlights (Your Portfolio Facts)
-
-| Metric                | Value |
-| --------------------- | ----- |
-| MERN Projects         | 2     |
-| Programming Languages | 5+    |
-| CGPA                  | 8.07  |
-| Certifications        | 2     |
-| Achievements          | 2     |
-
----
-
-## 🏆 Achievements
-
-* 🥈 2nd Place – Basketball Inter Collegiate Tournament (2024–25)
-* 🎖 NCC “B” Certificate
 
 ---
 
@@ -121,23 +116,22 @@ Git • GitHub • Postman
 
 ---
 
-## 📬 Contact Me
-
-* 📧 Email: **[teja72025@gmail.com](mailto:teja72025@gmail.com)**
-* 📱 Phone: **+91 8919537353**
-* 🔗 LinkedIn: https://www.linkedin.com/in/teja-swaroop-battula-b76696299
-* 💻 GitHub: https://github.com/teja-13
-
----
-
-## 🐍 Fun Animation (GitHub Snake)
+## 📬 Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <a href="mailto:teja72025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-CFB882?style=for-the-badge&logo=gmail&logoColor=3a1a14">
+  </a>
+  <a href="https://github.com/teja-13">
+    <img src="https://img.shields.io/badge/GitHub-6A3428?style=for-the-badge&logo=github&logoColor=CFB882">
+  </a>
+  <a href="https://www.linkedin.com/in/teja-swaroop-battula-b76696299">
+    <img src="https://img.shields.io/badge/LinkedIn-9a634d?style=for-the-badge&logo=linkedin&logoColor=CFB882">
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3428,100:CFB882&height=120&section=footer"/>
+<p align="center" style="color:#CFB882;">
+  ✨ Built with MERN + Passion + Consistency ✨
 </p>
