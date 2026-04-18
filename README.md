@@ -1,150 +1,143 @@
-# Teja Swaroop Battula | Portfolio
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=CFB882&center=true&vCenter=true&width=700&lines=Teja+Swaroop+Battula;MERN+Stack+Developer;AI+%2B+Full+Stack+Engineer;Building+Scalable+Web+Apps" />
+</p>
 
-Portfolio of Teja Swaroop Battula - MERN stack developer and B.Tech CSE student.
+---
 
-## Table of Contents
+## 🧠 About Me
 
-- [Overview](#overview)
-- [Highlights](#highlights)
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Achievements](#achievements)
-- [Hobbies](#hobbies)
-- [Contact](#contact)
-- [Original Interactive Features](#original-interactive-features)
+```txt id="aboutme"
+🎓 B.Tech CSE @ VVIT, Guntur  
+💻 MERN Stack Developer  
+🧠 Focus: AI + Backend Systems + Scalable Web Apps  
+🚀 Passion: Building real-world production applications  
+```
 
-## Overview
+---
 
-**Portfolio 2026**
+## 📊 GitHub Stats (Live Animated)
 
-**B.Tech CSE Student | MERN Stack Developer**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja-13&show_icons=true&theme=dark&title_color=CFB882&icon_color=CFB882&bg_color=3a1a14&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-13&layout=compact&theme=dark&title_color=CFB882&bg_color=3a1a14&text_color=ffffff" height="180"/>
+</p>
 
-I build practical, user-focused web applications with React, Node.js, Express.js, and MongoDB.
-I am currently focused on scalable backend design, real-world product workflows, and AI-assisted features that create measurable impact.
+---
 
-- GitHub: [View GitHub](https://github.com/teja-13)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/teja-swaroop-battula-b76696299)
-- Email: [Email Me](mailto:teja72025@gmail.com)
+## 🔥 Contribution Streak Animation
 
-## Highlights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teja-13&theme=dark&ring=CFB882&fire=CFB882&currStreakLabel=CFB882&background=3a1a14"/>
+</p>
 
-| Metric | Value |
-| --- | --- |
-| Major MERN Projects | 2 |
-| Programming Languages | 5+ |
-| Industry Certifications | 2 |
-| Current CGPA | 8.07 |
-| Notable Achievements | 2 |
+---
 
-## About Me
+## 🛠 Skills (Your Exact Stack)
 
-Computer science undergraduate with strong execution in full-stack delivery and collaborative product building.
+### 💻 Languages
 
-I am a B.Tech Computer Science student at Vasireddy Venkatadri Institute of Technology (VVIT), Guntur, with a deep interest in building scalable web products using the MERN stack.
+JavaScript • Python • Java • C • SQL
 
-My current focus is on real-world workflow automation, secure backend systems, and AI-powered features such as semantic matching and text-driven insights.
+### ⚛️ Frontend
 
-### Quick Info
+React.js • TypeScript • Vite • Tailwind CSS • React Router
 
-| Item | Details |
-| --- | --- |
-| Email | [teja72025@gmail.com](mailto:teja72025@gmail.com) |
-| Phone | [+91 8919537353](tel:+918919537353) |
-| LinkedIn | [View profile](https://www.linkedin.com/in/teja-swaroop-battula-b76696299) |
-| GitHub | [Explore repositories](https://github.com/teja-13) |
-| Base | Guntur, Andhra Pradesh, India |
+### ⚙️ Backend
 
-## Skills
+Node.js • Express.js • REST APIs • JWT Authentication
 
-| Category | Skills |
-| --- | --- |
-| Languages | JavaScript (ES6+), Python, Java, C, SQL |
-| Frontend | React.js, TypeScript, Vite, Tailwind CSS, React Router |
-| Backend | Node.js, Express.js, REST APIs, JWT Authentication, Middleware |
-| Databases | MongoDB Atlas, Mongoose, MySQL |
-| AI / NLP | TF-IDF, Cosine Similarity, Text Processing, Pandas, NumPy |
-| Tools | Git, GitHub, Postman |
-| Soft Skills | Leadership, Problem Solving, Communication, Time Management |
+### 🗄 Databases
 
-## Projects
+MongoDB Atlas • Mongoose • MySQL
 
-### AI-Powered Resume-JD Matcher (MERN)
+### 🤖 AI / NLP
 
-Source Code: [https://github.com/teja-13/resume-jd-analyser](https://github.com/teja-13/resume-jd-analyser)
+TF-IDF • Cosine Similarity • Pandas • NumPy
 
-Built a complete MERN application for resume-job description matching using NLP-powered ranking, match score generation, and skill-gap highlighting.
+### 🧰 Tools
 
-Key points:
+Git • GitHub • Postman
 
-- Implemented resume parsing support for PDF and DOCX uploads.
-- Used TF-IDF and cosine similarity for semantic job relevance scoring.
-- Designed JWT-secured APIs and integrated them with a React frontend.
+---
 
-Tech Stack: React, Node.js, Express.js, MongoDB, NLP
+## 🚀 Projects (Your Real Work)
 
-### Smart Library Management System
+### 🤖 AI-Powered Resume–JD Matcher (MERN)
 
-Source Code: [https://github.com/teja-13/e2e](https://github.com/teja-13/e2e)
+```txt id="resumejd"
+✔ Resume parsing (PDF/DOCX)
+✔ TF-IDF + Cosine Similarity ranking
+✔ Skill gap detection
+✔ JWT-secured full stack system
+```
 
-Developed a role-based MERN platform for handling books, borrowers, and admin workflows with secure authentication and full-stack integration.
+🔗 https://github.com/teja-13/resume-jd-analyser
 
-Key points:
+---
 
-- Built user and librarian flows with permissions and protected routes.
-- Added reservations, due-date tracking, overdue handling, and fines.
-- Connected APIs, database models, and frontend state for smooth operations.
+### 📚 Smart Library Management System
 
-Tech Stack: React, Express.js, MongoDB, JWT, Role-Based Access
+```txt id="librarysys"
+✔ Role-based authentication
+✔ Book tracking + reservations
+✔ Fine calculation system
+✔ Full MERN workflow
+```
 
-## Education
+🔗 https://github.com/teja-13/e2e
 
-| Qualification | Institution | Result | Duration |
-| --- | --- | --- | --- |
-| B.Tech CSE | VVIT, Guntur | CGPA: 8.07 / 10 | 2023 - Present |
-| ISC (Class XII) | Loyola Public School, Guntur | Score: 79.6% | 2021 - 2023 |
-| ICSE (Class X) | Loyola Public School, Guntur | Score: 90.16% | 2020 - 2021 |
+---
 
-## Certifications
+## 📈 Live Contribution Graph (Animated)
 
-- Introduction to MongoDB: [View Certificate](https://github.com/teja-13/certifications/blob/755df082656693cf5ed5b495abb35331c36d462e/23bq1a0524mongodb.pdf)
-- AWS Academy Graduate - Cloud Foundations: [View Certificate](https://github.com/teja-13/certifications/blob/755df082656693cf5ed5b495abb35331c36d462e/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260306-31-phuif8.pdf)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja-13&bg_color=3a1a14&color=CFB882&line=CFB882&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-## Achievements
+---
 
-- NCC 'B' Certificate: [View Proof](https://drive.google.com/file/d/1F3nM6Y3kxJ4U3gnFOtyH6PG7EkYSlUf0/view?usp=drivesdk)
-- Second Place - Central Zone Basketball Inter Collegiate Tournament (2024-2025): [View Proof](https://drive.google.com/file/d/1epJPYzmR4GoaQf53QACa0f72q1xIwnFN/view?usp=drivesdk)
+## 🎯 Highlights (Your Portfolio Facts)
 
-## Hobbies
+| Metric                | Value |
+| --------------------- | ----- |
+| MERN Projects         | 2     |
+| Programming Languages | 5+    |
+| CGPA                  | 8.07  |
+| Certifications        | 2     |
+| Achievements          | 2     |
 
-- Basketball
-- Music
-- Photography
+---
 
-## Contact
+## 🏆 Achievements
 
-I am open to internships, project collaborations, and developer opportunities.
+* 🥈 2nd Place – Basketball Inter Collegiate Tournament (2024–25)
+* 🎖 NCC “B” Certificate
 
-- Email: [teja72025@gmail.com](mailto:teja72025@gmail.com)
-- Phone: [+91 8919537353](tel:+918919537353)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/teja-swaroop-battula-b76696299)
-- GitHub: [GitHub](https://github.com/teja-13)
+---
 
-## Original Interactive Features
+## 🎯 Hobbies
 
-The original HTML page includes JavaScript for interactive behavior. This README intentionally removes JavaScript for GitHub compatibility and keeps the content in a static, readable format.
+🏀 Basketball • 🎵 Music • 📸 Photography
 
-Removed script-driven behaviors from the HTML version:
+---
 
-- Scroll progress indicator
-- Mobile menu toggle
-- Section reveal-on-scroll animation
-- Animated highlight counters
-- Skill category filter buttons
-- Copy email button behavior
-- Back-to-top button
-- Active section highlighting in navigation
+## 📬 Contact Me
 
-(c) 2026 Teja Swaroop Battula
+* 📧 Email: **[teja72025@gmail.com](mailto:teja72025@gmail.com)**
+* 📱 Phone: **+91 8919537353**
+* 🔗 LinkedIn: https://www.linkedin.com/in/teja-swaroop-battula-b76696299
+* 💻 GitHub: https://github.com/teja-13
+
+---
+
+## 🐍 Fun Animation (GitHub Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3428,100:CFB882&height=120&section=footer"/>
+</p>
