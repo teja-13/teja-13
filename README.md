@@ -1,9 +1,11 @@
 ```md
+```html
 <div align="center">
 
 # `teja-13@github:~$ neofetch`
 
 ### Teja Swaroop Battula
+
 **Full-Stack Developer | Java Backend Developer | AI Enthusiast**
 
 `[ SYSTEM ONLINE ]` ` [ DEVELOPER MODE ]` ` [ OPEN TO OPPORTUNITIES ]`
@@ -21,6 +23,7 @@ LOCATION   : Guntur, Andhra Pradesh, India
 INTERESTS  : Backend Engineering, Full-Stack Development, AI
 STATUS     : Building projects and learning by doing
 ```
+
 
 I build practical, user-focused web applications using React,
 Node.js, Express.js, and MongoDB, with a growing focus on
