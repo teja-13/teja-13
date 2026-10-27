@@ -4,7 +4,25 @@
 
 </div>
 
-<img src="assets/terminal-01.svg" alt="teja-13@github:~$ neofetch" />
+```text
+teja-13@github:~$ neofetch
+
+   ████████╗███████╗     ██╗ █████╗
+   ╚══██╔══╝██╔════╝     ██║██╔══██╗
+      ██║   █████╗       ██║███████║
+      ██║   ██╔══╝  ██   ██║██╔══██║
+      ██║   ███████╗╚█████╔╝██║  ██║
+      ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝
+
+   teja-13@github
+   ------------------------------------------
+   Name     : Teja Swaroop Battula
+   Role     : Java Developer | Spring Boot | Spring Security | REST APIs
+   Edu      : B.Tech CSE, VVIT Guntur (2023-2027)
+   CGPA     : 7.92
+   Shell    : bash 5.2
+   Uptime   : learning by doing
+```
 
 <div align="center">
 
@@ -16,13 +34,51 @@
 
 ---
 
-<img src="assets/terminal-02.svg" alt="root@teja:~$ whoami" />
+```text
+root@teja:~$ whoami
 
-<img src="assets/terminal-03.svg" alt="root@teja:~$ cat summary.txt" />
+USER       : Teja Swaroop Battula
+ROLE       : B.Tech Computer Science Student (graduating 2027)
+LOCATION   : Guntur, Andhra Pradesh, India
+SEEKING    : Full-time Java Developer role
+STATUS     : Building and deploying real projects, learning by doing
+```
+
+```text
+root@teja:~$ cat summary.txt
+
+B.Tech CSE student seeking a full-time Java Developer role.
+Built and deployed a Spring Boot REST API with Spring Security,
+JWT refresh-token rotation and an OTP password-reset flow, plus a
+role-based library web application on Node.js and Express.
+```
 
 ---
 
-<img src="assets/terminal-04.svg" alt="root@teja:~$ cat skills.conf" />
+```text
+root@teja:~$ cat skills.conf
+
+[java_backend]
+languages   = Java, OOP
+frameworks  = Spring Boot, Spring Security, Spring Scheduler
+api         = RESTful APIs, JWT, Role-Based Access Control
+
+[databases]
+sql         = MySQL, SQL
+nosql       = MongoDB Atlas
+
+[web]
+frontend    = HTML, CSS, JavaScript, React.js, Tailwind CSS
+server      = Node.js, Express.js
+
+[tools]
+dev         = Git, GitHub, Postman
+deploy      = Vercel, Render
+
+[also]
+core        = Data Structures and Algorithms
+languages   = Python, C, TypeScript
+```
 
 <div align="center">
 
@@ -49,35 +105,108 @@
 
 ---
 
-<img src="assets/terminal-05.svg" alt="root@teja:~$ ls -la projects/" />
+```text
+root@teja:~$ ls -la projects/
+
+drwxr-xr-x  expense-tracker/
+drwxr-xr-x  smart-library-management-system/
+drwxr-xr-x  multi-organ-cancer-detection-pipeline/
+```
 
 ### 01 | Expense Tracker
 
-<img src="assets/terminal-06.svg" alt="root@teja:~$ cat projects/expense-tracker/README" />
+```text
+root@teja:~$ cat projects/expense-tracker/README
+
+STACK    : Spring Boot, Spring Security, React.js, MongoDB Atlas
+DEPLOY   : React on Vercel | Spring Boot on Render | MongoDB Atlas
+SOURCE   : github.com/teja-13/spring-app
+
+> Full-stack expense tracking app with 9 REST controllers covering
+  authentication, transactions, budgets, categories and analytics.
+> Spring Security with JWT authentication and refresh-token rotation,
+  plus an OTP-based password-reset flow through a dedicated email service.
+> Spring Scheduler job that alerts users approaching budget thresholds.
+> Server-side aggregation endpoints for monthly spending trends
+  and category-wise breakdowns.
+```
 
 [![Source](https://img.shields.io/badge/SOURCE-spring--app-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/teja-13/spring-app)
 
 ### 02 | Smart Library Management System
 
-<img src="assets/terminal-07.svg" alt="root@teja:~$ cat projects/smart-library-management-system/README" />
+```text
+root@teja:~$ cat projects/smart-library-management-system/README
+
+STACK    : React.js, TypeScript, Node.js, Express.js, MongoDB
+ARCH     : 3-tier, role-based (admin | librarian | student)
+
+> Role-based library web application with REST endpoints across
+  admin, librarian and student roles.
+> Admin approval flow that holds new registrations in a pending
+  queue until activation.
+> Borrow, return and reservation flows with copy-availability
+  tracking, automated overdue-fine calculation and overdue
+  notifications.
+```
 
 ### 03 | Multi-organ Cancer Detection Pipeline
 
-<img src="assets/terminal-08.svg" alt="root@teja:~$ cat projects/multi-organ-cancer-detection-pipeline/README" />
+```text
+root@teja:~$ cat projects/multi-organ-cancer-detection-pipeline/README
+
+STACK    : Python, Radiomics, QUBO (BQPhy), Django, Flask
+EVENT    : Quantathon 2026
+
+> Radiomics-based cancer detection pipeline for brain, liver,
+  kidney and lung, using QUBO feature selection.
+> Django and Flask services that generate reports from the
+  model output.
+```
 
 ---
 
-<img src="assets/terminal-09.svg" alt="root@teja:~$ cat achievements.log" />
+```text
+root@teja:~$ cat achievements.log
 
-<img src="assets/terminal-10.svg" alt="root@teja:~$ cat certifications.txt" />
+[2026] Quantathon     : advanced through 3 stages
+                        (1,800+ applicants > 800 pitches > 120 teams)
+                        team selected among the final 120
+
+[CP]   LeetCode       : 249 problems solved | contest rating 1460
+[CP]   CodeChef       : 666 problems solved | highest rating 1449
+                        Problem Solver Gold Badge | 19 contests
+```
+
+```text
+root@teja:~$ cat certifications.txt
+
+[x] AWS Academy Graduate - Cloud Foundations
+[x] Introduction to MongoDB
+```
 
 ---
 
-<img src="assets/terminal-11.svg" alt="root@teja:~$ cat education.log" />
+```text
+root@teja:~$ cat education.log
+
+2023 - 2027 | B.Tech, Computer Science & Engineering
+            | Vasireddy Venkatadri Institute of Technology, Guntur
+            | CGPA 7.92
+
+2021 - 2023 | ISC (Class XII) | Loyola Public School, Guntur | 79.6%
+2020 - 2021 | ICSE (Class X)  | Loyola Public School, Guntur | 90.16%
+```
 
 ---
 
-<img src="assets/terminal-12.svg" alt="root@teja:~$ ./contact.sh" />
+```text
+root@teja:~$ ./contact.sh
+
+EMAIL      : tejaswaroop.battula07@gmail.com
+LINKEDIN   : linkedin.com/in/battula-teja-swaroop
+GITHUB     : github.com/teja-13
+```
 
 <div align="center">
 
@@ -89,4 +218,13 @@
 
 ---
 
-<img src="assets/terminal-13.svg" alt="root@teja:~$ git status" />
+```text
+root@teja:~$ git status
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean (always shipping)
+
+root@teja:~$ _
+```
