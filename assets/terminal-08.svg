@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628" height="225" viewBox="0 0 628 225">
+<rect width="628" height="225" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat projects/multi-organ-cancer-detection-pipeline/README</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">STACK    : Python, Radiomics, QUBO (BQPhy), Django, Flask</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">EVENT    : Quantathon 2026</text>
+<text x="20" y="137" xml:space="preserve" style="white-space:pre">&gt; Radiomics-based cancer detection pipeline for brain, liver,</text>
+<text x="20" y="158" xml:space="preserve" style="white-space:pre">  kidney and lung, using QUBO feature selection.</text>
+<text x="20" y="179" xml:space="preserve" style="white-space:pre">&gt; Django and Flask services that generate reports from the</text>
+<text x="20" y="200" xml:space="preserve" style="white-space:pre">  model output.</text>
+</g></svg>

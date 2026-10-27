@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="544" height="498" viewBox="0 0 544 498">
+<rect width="544" height="498" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat skills.conf</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">[java_backend]</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">languages   = Java, OOP</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">frameworks  = Spring Boot, Spring Security, Spring Scheduler</text>
+<text x="20" y="137" xml:space="preserve" style="white-space:pre">api         = RESTful APIs, JWT, Role-Based Access Control</text>
+<text x="20" y="179" xml:space="preserve" style="white-space:pre">[databases]</text>
+<text x="20" y="200" xml:space="preserve" style="white-space:pre">sql         = MySQL, SQL</text>
+<text x="20" y="221" xml:space="preserve" style="white-space:pre">nosql       = MongoDB Atlas</text>
+<text x="20" y="263" xml:space="preserve" style="white-space:pre">[web]</text>
+<text x="20" y="284" xml:space="preserve" style="white-space:pre">frontend    = HTML, CSS, JavaScript, React.js, Tailwind CSS</text>
+<text x="20" y="305" xml:space="preserve" style="white-space:pre">server      = Node.js, Express.js</text>
+<text x="20" y="347" xml:space="preserve" style="white-space:pre">[tools]</text>
+<text x="20" y="368" xml:space="preserve" style="white-space:pre">dev         = Git, GitHub, Postman</text>
+<text x="20" y="389" xml:space="preserve" style="white-space:pre">deploy      = Vercel, Render</text>
+<text x="20" y="431" xml:space="preserve" style="white-space:pre">[also]</text>
+<text x="20" y="452" xml:space="preserve" style="white-space:pre">core        = Data Structures and Algorithms</text>
+<text x="20" y="473" xml:space="preserve" style="white-space:pre">languages   = Python, C, TypeScript</text>
+</g></svg>

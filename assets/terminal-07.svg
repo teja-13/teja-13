@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="577" height="288" viewBox="0 0 577 288">
+<rect width="577" height="288" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat projects/smart-library-management-system/README</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">STACK    : React.js, TypeScript, Node.js, Express.js, MongoDB</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">ARCH     : 3-tier, role-based (admin | librarian | student)</text>
+<text x="20" y="137" xml:space="preserve" style="white-space:pre">&gt; Role-based library web application with REST endpoints across</text>
+<text x="20" y="158" xml:space="preserve" style="white-space:pre">  admin, librarian and student roles.</text>
+<text x="20" y="179" xml:space="preserve" style="white-space:pre">&gt; Admin approval flow that holds new registrations in a pending</text>
+<text x="20" y="200" xml:space="preserve" style="white-space:pre">  queue until activation.</text>
+<text x="20" y="221" xml:space="preserve" style="white-space:pre">&gt; Borrow, return and reservation flows with copy-availability</text>
+<text x="20" y="242" xml:space="preserve" style="white-space:pre">  tracking, automated overdue-fine calculation and overdue</text>
+<text x="20" y="263" xml:space="preserve" style="white-space:pre">  notifications.</text>
+</g></svg>

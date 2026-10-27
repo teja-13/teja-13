@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586" height="162" viewBox="0 0 586 162">
+<rect width="586" height="162" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat summary.txt</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">B.Tech CSE student seeking a full-time Java Developer role.</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">Built and deployed a Spring Boot REST API with Spring Security,</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">JWT refresh-token rotation and an OTP password-reset flow, plus a</text>
+<text x="20" y="137" xml:space="preserve" style="white-space:pre">role-based library web application on Node.js and Express.</text>
+</g></svg>

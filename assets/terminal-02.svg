@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="611" height="183" viewBox="0 0 611 183">
+<rect width="611" height="183" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ whoami</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">USER       : Teja Swaroop Battula</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">ROLE       : B.Tech Computer Science Student (graduating 2027)</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">LOCATION   : Guntur, Andhra Pradesh, India</text>
+<text x="20" y="137" xml:space="preserve" style="white-space:pre">SEEKING    : Full-time Java Developer role</text>
+<text x="20" y="158" xml:space="preserve" style="white-space:pre">STATUS     : Building and deploying real projects, learning by doing</text>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="619" height="225" viewBox="0 0 619 225">
+<rect width="619" height="225" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat achievements.log</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">[2026] Quantathon     : advanced through 3 stages</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">                        (1,800+ applicants &gt; 800 pitches &gt; 120 teams)</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">                        team selected among the final 120</text>
+<text x="20" y="158" xml:space="preserve" style="white-space:pre">[CP]   LeetCode       : 249 problems solved | contest rating 1460</text>
+<text x="20" y="179" xml:space="preserve" style="white-space:pre">[CP]   CodeChef       : 666 problems solved | highest rating 1449</text>
+<text x="20" y="200" xml:space="preserve" style="white-space:pre">                        Problem Solver Gold Badge | 19 contests</text>
+</g></svg>

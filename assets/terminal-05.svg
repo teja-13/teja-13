@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="141" viewBox="0 0 460 141">
+<rect width="460" height="141" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ ls -la projects/</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">drwxr-xr-x  expense-tracker/</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">drwxr-xr-x  smart-library-management-system/</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">drwxr-xr-x  multi-organ-cancer-detection-pipeline/</text>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="661" height="309" viewBox="0 0 661 309">
+<rect width="661" height="309" rx="8" fill="#0D1117" stroke="#30363d"/>
+<g font-family="Fira Code, Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#00FF41" style="white-space:pre" xml:space="preserve">
+<text x="20" y="32" xml:space="preserve" style="white-space:pre">root@teja:~$ cat projects/expense-tracker/README</text>
+<text x="20" y="74" xml:space="preserve" style="white-space:pre">STACK    : Spring Boot, Spring Security, React.js, MongoDB Atlas</text>
+<text x="20" y="95" xml:space="preserve" style="white-space:pre">DEPLOY   : React on Vercel | Spring Boot on Render | MongoDB Atlas</text>
+<text x="20" y="116" xml:space="preserve" style="white-space:pre">SOURCE   : github.com/teja-13/spring-app</text>
+<text x="20" y="158" xml:space="preserve" style="white-space:pre">&gt; Full-stack expense tracking app with 9 REST controllers covering</text>
+<text x="20" y="179" xml:space="preserve" style="white-space:pre">  authentication, transactions, budgets, categories and analytics.</text>
+<text x="20" y="200" xml:space="preserve" style="white-space:pre">&gt; Spring Security with JWT authentication and refresh-token rotation,</text>
+<text x="20" y="221" xml:space="preserve" style="white-space:pre">  plus an OTP-based password-reset flow through a dedicated email service.</text>
+<text x="20" y="242" xml:space="preserve" style="white-space:pre">&gt; Spring Scheduler job that alerts users approaching budget thresholds.</text>
+<text x="20" y="263" xml:space="preserve" style="white-space:pre">&gt; Server-side aggregation endpoints for monthly spending trends</text>
+<text x="20" y="284" xml:space="preserve" style="white-space:pre">  and category-wise breakdowns.</text>
+</g></svg>
